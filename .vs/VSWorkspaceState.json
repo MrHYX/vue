@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\mock\\modules",
+    "\\src\\permission",
+    "\\src\\store",
+    "\\src\\utils",
+    "\\src\\views",
+    "\\src\\views\\Core",
+    "\\src\\views\\IFrame",
+    "\\src\\views\\Intro"
+  ],
+  "SelectedNode": "\\src\\views\\NavBar.vue",
+  "PreviewInSolutionExplorer": false
+}
