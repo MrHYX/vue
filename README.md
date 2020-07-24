@@ -1,6 +1,6 @@
-# mango-ui
+# server-ui
 
-> mango-ui
+> server-ui
 
 ## Build Setup
 
